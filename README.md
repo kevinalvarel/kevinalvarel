@@ -9,9 +9,9 @@ Currently diving deep into Next.js, React, and everything around the modern web.
 
 - 🎓 Informatics Student with a background in Computer and Network Engineering
 
-- 💻 I love building responsive & aesthetic web interfaces
+- 💻 I love building responsive & modern web interfaces
 
-- 📚 Currently learning TypeScript, Next.js 15 App Router, and Framer Motion
+- 📚 Currently learning TypeScript, Next.js 15 App Router, and Motion
 
 ## 🌐 Socials:
 
