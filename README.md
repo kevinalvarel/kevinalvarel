@@ -3,7 +3,7 @@
 ## Hi there 👋
 
 I'm Muhammad Kevin Alvarel, a passionate Front-End Developer from Indonesia 🇮🇩
-Currently diving deep into Next.js, React, and everything around the modern web.
+Currently diving deep into Next.js, React, and also about machine learning.
 
 ## 🚀 About Me
 
@@ -11,7 +11,7 @@ Currently diving deep into Next.js, React, and everything around the modern web.
 
 - 💻 I love building responsive & modern web interfaces
 
-- 📚 Currently learning TypeScript, Next.js 15 App Router, and Motion
+- 📚 Currently learning TypeScript, Machine Learning, and Other
 
 ## 🌐 Socials:
 
