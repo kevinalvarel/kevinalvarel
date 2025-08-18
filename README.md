@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-I'm Muhammad Kevin Alvarel, a passionate Front-End Developer from Indonesia 🇮🇩
+I'm Muhammad Kevin Alvarel, a passionate Junior Fullstack Developer from Indonesia 🇮🇩
 Currently diving deep into Next.js, React, and also about machine learning.
 
 ## 🚀 About Me
