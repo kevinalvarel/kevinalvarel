@@ -11,7 +11,7 @@ Currently diving deep into Next.js, React, and also about machine learning.
 
 - 💻 I love building responsive & modern web interfaces
 
-- 📚 Currently learning TypeScript, Machine Learning, and Other
+- 📚 Currently learning TypeScript, and Flutter
 
 ## 🌐 Socials:
 
