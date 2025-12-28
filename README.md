@@ -3,7 +3,7 @@
 ## Hi there 👋
 
 I'm Muhammad Kevin Alvarel, a passionate Junior Fullstack Developer from Indonesia 🇮🇩
-Currently diving deep into Next.js, React, and also about machine learning.
+Currently diving deep into Next.js, React, and also Mobile Development with Flutter.
 
 ## 🚀 About Me
 
