@@ -2,29 +2,18 @@
 
 ## Hi there, I'm Kevin! 👋
 
-I'm **Muhammad Kevin Alvarel**, a passionate **Front-End Engineer** and Informatics Student from Indonesia 🇮🇩.  
-I specialize in building modern web interfaces and am currently expanding my skills into Mobile Development and Cloud Computing.
+I'm Muhammad Kevin Alvarel, a passionate Junior Fullstack Developer from Indonesia 🇮🇩
+Currently diving deep into Next.js, React, and also about machine learning.
 
 ## 🚀 About Me
 
-- 🎓 **Informatics Student** with a strong background in Computer & Network Engineering (TKJ).
-- 💼 Working as a **Front-End Engineer**, focused on creating responsive & performant web apps.
-- 🏛️ **Founder & Lead** of Dicoding Community Network at Universitas Al-Khairiyah (DCN Unival).
-- 🌟 **Alumni Google Student Ambassador** (Class of 2025).
-- 💻 Selected for **Coding Camp 2026 powered by DBS Foundation** (Full Stack Path).
+- 🎓 Informatics Student with a background in Computer and Network Engineering
 
-## 🌱 Current Focus
+- 💻 I love building responsive & modern web interfaces
 
-- **Learning:** Mobile Development (Flutter/Dart), Google Cloud Platform (GCP), and Advanced Next.js 15.
-- **Exploring:** Generative AI integration (Gemini & NotebookLM) into web applications.
+- 📚 Currently learning TypeScript, Machine Learning, and Other
 
-## 🏆 Certifications & Badges
-
-- **Google Cloud:** Essential Google Cloud Infrastructure: Foundation
-- **Google:** Gemini Certified Educator
-- **Skill Badge:** Develop GenAI Apps with Gemini and Streamlit
-
-## 🌐 Socials
+## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kevinalvrl_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-kevin-alvarel-992974355/)
 
