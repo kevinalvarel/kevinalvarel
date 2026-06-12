@@ -1,25 +1,32 @@
--![Muhammad Kevin Alvarel](img/header.png)
-
-## Hi there, I'm Kevin! 👋
-
-I'm Muhammad Kevin Alvarel, a passionate Junior Fullstack Developer from Indonesia 🇮🇩
-Currently diving deep into Next.js, React, and also about machine learning.
+<div align="center">
+  <h1>Hi there, I'm Kevin! 👋</h1>
+  <p><b>Muhammad Kevin Alvarel</b> | Fullstack Developer from Indonesia 🇮🇩</p>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38B2AC&width=435&lines=Junior+Fullstack+Developer;Informatics+Student;Tech+Enthusiast)](https://git.io/typing-svg)
+</div>
 
 ## 🚀 About Me
 
-- 🎓 Informatics Student with a background in Computer and Network Engineering
+- 🎓 4th-semester Informatics Student at Universitas Al-Khairiyah & Junior Fullstack Developer.
 
-- 💻 I love building responsive & modern web interfaces
+- 💻 Focused on Front-End Engineering, building responsive, modern interfaces with React, Next.js 15, Tailwind CSS 4, and TypeScript.
 
-- 📚 Currently learning TypeScript, Machine Learning, and Other
+- 🌱 Currently diving deep into mobile development with Flutter & Dart, and integrating AI/NLP into web applications (like my ongoing nutrition tracking project, KaloriKu).
 
-## 🌐 Socials:
+- ⚡ Founder of the Dicoding Community Network (DCN) at UNIVAL and Full-Stack track participant in the DBS Foundation Coding Camp 2026.
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kevinalvrl_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-kevin-alvarel-992974355/)
+- 📫 How to reach me: Let's connect on LinkedIn or Instagram!
+
+## 🌐 Connect with Me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/muhammad-kevin-alvarel-992974355/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/kevinalvrl_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/></a>
+</p>
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ### Languages
 
@@ -39,4 +46,22 @@ Currently diving deep into Next.js, React, and also about machine learning.
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=kevinalvarel&icon=0&color=0)](https://visitcount.itsvg.in)
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kevinalvarel&show_icons=true&theme=tokyonight&hide_border=true" alt="Kevin's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinalvarel&theme=tokyonight&hide_border=true" alt="Kevin's GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinalvarel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  <p>Thanks for dropping by! Have a great day.</p>
+  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=kevinalvarel&icon=0&color=0" alt="Profile views"/></a>
+</div>
