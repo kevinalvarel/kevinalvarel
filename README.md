@@ -53,14 +53,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevinalvarel&show_icons=true&theme=tokyonight&hide_border=true" alt="Kevin's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinalvarel&theme=tokyonight&hide_border=true" alt="Kevin's GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinalvarel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=kevinalvarel&langs_count=4&theme=dark" alt="Top Languages" />
 </div>
 
 ---
