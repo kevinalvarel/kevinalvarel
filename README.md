@@ -17,7 +17,7 @@
 
 - 🌱 Currently diving deep into mobile development with Flutter & Dart, and integrating AI/NLP into web applications (like my ongoing nutrition tracking project, KaloriKu).
 
-- ⚡ Founder of the Dicoding Community Network (DCN) at UNIVAL and Full-Stack track participant in the DBS Foundation Coding Camp 2026.
+- ⚡ Full-Stack track participant in the DBS Foundation Coding Camp 2026.
 
 - 📫 How to reach me: Let's connect on LinkedIn or Instagram!
 
